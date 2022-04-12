@@ -1,0 +1,25 @@
+{
+  "name": "unit10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harwcam/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harwcam/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/harwcam/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
